@@ -1,0 +1,6 @@
+{
+  "name": "文の成分マスター - 中学1年 国語文法クイズ",
+  "description": "中学1年生向け国語文法クイズアプリ。主語・述語・修飾語の見分け方、連文節、文節相互の関係を楽しくマスター！制限時間コンボ・解説・復習機能・進捗グラフ・ランキング付き。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
